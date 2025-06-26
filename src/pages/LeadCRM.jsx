@@ -118,7 +118,7 @@ const LeadCRM = () => {
                   Manage and track your leads
                 </p>
                 <p className="text-xs text-gray-500 mt-1">
-                    This Frontend Task is created by Sanjeet on {new Date().toLocaleDateString()} at {new Date().toLocaleTimeString()}
+                    This Frontend Task is created by Sanjeet on 26th May 2025
                 </p>
               </div>
               <div className="flex items-center gap-3">
